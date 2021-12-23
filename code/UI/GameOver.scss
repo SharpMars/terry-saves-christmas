@@ -1,0 +1,31 @@
+﻿.gameover
+{
+  justify-content: center;
+  margin-left: 530px;
+}
+
+.gameover_label
+{
+  position: absolute;
+  top: 35%;
+  font-size: 170px;
+  font-weight: 700;
+  font-family: Poppins;
+  font-style: italic;
+  color: white;
+  align-self: center;
+  text-stroke: 16px black;
+}
+
+.finaltime
+{
+  position: relative;
+  top: 10%;
+  font-size: 70px;
+  font-weight: 700;
+  font-family: Poppins;
+  font-style: italic;
+  color: white;
+  align-self: center;
+  text-stroke: 10px black;
+}

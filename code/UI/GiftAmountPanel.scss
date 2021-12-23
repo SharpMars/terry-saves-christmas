@@ -1,0 +1,23 @@
+﻿.gift_image
+{
+  height: 226px;
+  width: 226px;
+  position: absolute;
+  bottom: 17px;
+  background-repeat: no-repeat;
+  left: 8px;
+}
+
+.gift_label
+{
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 120px;
+  padding-left: 25px;
+  transform: rotate(7);
+  color: white;
+  text-stroke: 12px black;
+  position: absolute;
+  left: 180px;
+  bottom: 0;
+}

@@ -1,0 +1,18 @@
+﻿.timer_panel
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1920px;
+}
+
+.timer_label
+{
+  position: relative;
+  font-family: Poppins;
+  font-size: 72px;
+  color: white;
+  font-weight: 700;
+  text-stroke: 8px black;
+  text-align: center;
+}
